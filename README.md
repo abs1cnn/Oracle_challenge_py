@@ -1,5 +1,8 @@
 # Oracle_challenge_py
 
+LINK ENTREGA
+https://app.aluracursos.com/course/python-data-science-challenge-alura-store/task/90529
+
 COSAS A CUMPLIR
 ![image](https://github.com/user-attachments/assets/6b6bb719-26aa-46e4-b847-bc42f07a8ff7)
 
